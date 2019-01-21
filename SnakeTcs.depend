@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1548088471 source:d:\cpp\snaketcs\main.cpp
+1548091592 source:d:\cpp\snaketcs\main.cpp
 	<iostream>
 	<conio.h>
 	<stdio.h>
+	<cstdlib>
 
